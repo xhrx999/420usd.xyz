@@ -4,6 +4,9 @@ html {
 	font-family: 'Bebas Neue';
 	color: white;
 	text-align: center;
+	background-image: url("https://mocah.org/thumbs/4516704-night-star-trails-dark-nature-calm-black-gradient-motion-blur.jpg");
+	background-size: 500%;
+	background-repeat: no-repeat;
 }
 
 a:link, a:visited {
@@ -35,6 +38,7 @@ a {
 html {
 	background-image: url("https://mocah.org/thumbs/4516704-night-star-trails-dark-nature-calm-black-gradient-motion-blur.jpg");
 	background-size: 100%;
+	background-repeat: no-repeat;
 }
 h1 {
 	font-size: 200px;
