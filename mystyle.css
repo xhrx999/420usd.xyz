@@ -16,7 +16,6 @@ a:hover, a:active {
  	color: #aaaaaa;
 }
 
-@media (min-width:320px)  {
 h1 {
 	font-size: 250px;
 	margin-block-start: 0.20em;
@@ -27,7 +26,6 @@ a {
 	font-size: 200px;
 	margin-block-start: 0.1em;
     	margin-block-end: 0.1em;
-}
 }
 
 
