@@ -32,6 +32,9 @@ a {
 
 
 @media (min-width:1200px)  {
+html {
+	background-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2lqwgsDrSA-9b_r7YdjIifCobqcug8n4ikw&usqp=CAU;
+}
 h1 {
 	font-size: 200px;
 	margin-block-start: 0.05em;
