@@ -33,7 +33,8 @@ a {
 
 @media (min-width:1200px)  {
 html {
-	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2lqwgsDrSA-9b_r7YdjIifCobqcug8n4ikw&usqp=CAU");
+	background-image: url("https://mocah.org/thumbs/4516704-night-star-trails-dark-nature-calm-black-gradient-motion-blur.jpg");
+	background-size: 100%;
 }
 h1 {
 	font-size: 200px;
