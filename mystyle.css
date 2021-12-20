@@ -6,10 +6,10 @@ html {
 	text-align: center;
 }
 
-.sitename {
+h1 {
 	font-size: 150px;
 }
 
-.text {
+h2 {
 	font-size: 70px;
 }
