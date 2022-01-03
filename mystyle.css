@@ -23,17 +23,17 @@ h1 {
 	color: #aaaaaa;
 	font-size: 250px;
 	margin-block-start: 0.20em;
-    	margin-block-end: 0.20em;
-	text-shadow: 2px 2px #ff0000, -2px -2px #00ffff
+    margin-block-end: 0.20em;
+    text-shadow: 4px 4px #ff0000, -4px -4px #00ffff;
+    animation: color-change 5s infinite;
 }
 
 a {
 	font-size: 200px;
 	margin-block-start: 0.1em;
-    	margin-block-end: 0.1em;
+    margin-block-end: 0.1em;
 	text-shadow: 2px 2px #ff0000, -2px -2px #00ffff;
 }
-
 
 
 @media (min-width:1200px)  {
@@ -45,12 +45,20 @@ html {
 h1 {
 	font-size: 200px;
 	margin-block-start: 0.05em;
-    	margin-block-end: 0.05em;
+    margin-block-end: 0.05em;
 }
 
 a {
 	font-size: 70px;
 	margin-block-start: 0.1em;
-    	margin-block-end: 0.1em;
+    margin-block-end: 0.1em;
 }
+}
+
+@keyframes color-change {
+  0% { color: #ffffff; }
+  25% { color: #dddddd; }
+  50% { color: #999999; }
+  75% { color: #dddddd; }
+  100% { color: #ffffff; }
 }
