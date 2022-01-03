@@ -31,7 +31,7 @@ a {
 	font-size: 200px;
 	margin-block-start: 0.1em;
     	margin-block-end: 0.1em;
-	text-shadow: 2px 2px #ff0000;
+	text-shadow: 2px 2px #ff0000, -2px -2px #00ffff;
 }
 
 
