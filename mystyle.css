@@ -20,11 +20,11 @@ a:hover, a:active {
 }
 
 h1 {
-	color: #FF0000;
+	color: #aaaaaa;
 	font-size: 250px;
 	margin-block-start: 0.20em;
     	margin-block-end: 0.20em;
-	text-shadow: 4px 4px #333333;
+	text-shadow: 2px 2px #ff0000, -2px -2px #00ffff
 }
 
 a {
