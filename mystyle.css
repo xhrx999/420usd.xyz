@@ -57,8 +57,6 @@ a {
 
 @keyframes color-change {
   0% { color: #ffffff; }
-  25% { color: #dddddd; }
   50% { color: #999999; }
-  75% { color: #dddddd; }
   100% { color: #ffffff; }
 }
