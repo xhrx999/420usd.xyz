@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 html {
 	background-color: black;
 	font-family: 'Bebas Neue';
@@ -22,16 +23,16 @@ a:hover, a:active {
 h1 {
 	color: #aaaaaa;
 	font-size: 250px;
-	margin-block-start: 0.20em;
-    margin-block-end: 0.20em;
-    text-shadow: 4px 4px #ff0000, -4px -4px #00ffff;
-    animation: color-change 5s infinite;
+	margin-block-start: 0.20em
+	margin-block-end: 0.20em;
+	text-shadow: 4px 4px #ff0000, -4px -4px #00ffff;
+	animation: color-change 15s infinite;
 }
 
 a {
 	font-size: 200px;
 	margin-block-start: 0.1em;
-    margin-block-end: 0.1em;
+	margin-block-end: 0.1em;
 	text-shadow: 2px 2px #ff0000, -2px -2px #00ffff;
 }
 
@@ -45,18 +46,18 @@ html {
 h1 {
 	font-size: 200px;
 	margin-block-start: 0.05em;
-    margin-block-end: 0.05em;
+	margin-block-end: 0.05em;
 }
 
 a {
 	font-size: 70px;
 	margin-block-start: 0.1em;
-    margin-block-end: 0.1em;
+	margin-block-end: 0.1em;
 }
 }
 
 @keyframes color-change {
-  0% { color: #ffffff; }
-  50% { color: #999999; }
-  100% { color: #ffffff; }
+	0% { color: #fff; }
+	50% { color: #999; }
+	100% { color: #fff; }
 }
