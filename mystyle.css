@@ -48,6 +48,10 @@ a {
 	text-align: center;
 }
 
+.footertext {
+	margin: 5px;
+}
+
 @media (min-width:1200px)  {
 html {
 	background-image: url("http://vanzomrealtyauction.com/web/wp-content/uploads/2013/05/5195-grey-texture-1920x1080-abstract-wallpaper-copy.jpg");
@@ -66,8 +70,8 @@ a {
 	margin-block-end: 0.1em;
 }
 
-.footer {
-	padding: 5px;
+.footertext {
+	margin: 10px;
 	}
 }
 
