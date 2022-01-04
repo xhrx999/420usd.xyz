@@ -37,6 +37,16 @@ a {
 	text-shadow: 2px 2px #ff0000, -2px -2px #00ffff;
 }
 
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: black;
+	color: white;
+	font-size: 25px;
+	text-align: center;
+}
 
 @media (min-width:1200px)  {
 html {
