@@ -5,7 +5,7 @@ html {
 	font-family: 'Bebas Neue';
 	color: white;
 	text-align: center;
-	background-image: url("http://vanzomrealtyauction.com/web/wp-content/uploads/2013/05/5195-grey-texture-1920x1080-abstract-wallpaper-copy.jpg");
+	/*background-image: url("http://vanzomrealtyauction.com/web/wp-content/uploads/2013/05/5195-grey-texture-1920x1080-abstract-wallpaper-copy.jpg");*/
 	background-attachment: fixed;
 	background-size: 500%;
 	background-repeat: no-repeat;
@@ -54,7 +54,6 @@ a {
 
 @media (min-width:1200px)  {
 html {
-	background-image: url("http://vanzomrealtyauction.com/web/wp-content/uploads/2013/05/5195-grey-texture-1920x1080-abstract-wallpaper-copy.jpg");
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
