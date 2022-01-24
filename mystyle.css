@@ -76,6 +76,6 @@ a {
 
 @keyframes color-change {
 	0% { color: #fff; }
-	50% { color: #999; }
+	50% { color: #ddd; }
 	100% { color: #fff; }
 }
