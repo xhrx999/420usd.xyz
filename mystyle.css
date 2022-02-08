@@ -25,7 +25,7 @@ a:hover, a:active {
 
 .header {
 	width: 100%;
-	max-height: 250px;
+	height: 150px;
 }
 
 .headertext {
