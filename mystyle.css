@@ -79,9 +79,9 @@ a {
 	font-size: 100px;
 	margin: 10px;
 	float: inline-end;
-	margin: 0px;
+	top: 50%;
 	vertical-align: middle;
-	height: 200px;
+	height: max-content;
 	position: relative;
 }
 
