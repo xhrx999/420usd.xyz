@@ -55,6 +55,11 @@ a {
 	vertical-align: middle;
 }
 
+.blockcontent {
+	text-align: left;
+	vertical-align: middle;
+}
+
 .block:hover {
 	background-color: rgb(50, 50, 50);
 }
@@ -64,8 +69,8 @@ a {
 	margin: 10px;
 	padding: 0%;
 	vertical-align: middle;
-	max-height: 150px;
-	max-width: 150px;
+	max-height: 200px;
+	width: 200px;
 }
 
 .blocktext {
