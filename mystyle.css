@@ -19,9 +19,9 @@ a:link, a:visited {
  	display: inline-block;
 }
 
-/*a:hover, a:active {
+a:hover, a:active {
  	color: #aaaaaa;
-}*/
+}
 
 .header {
 	width: 100%;
@@ -75,6 +75,7 @@ a {
 
 .blocktext {
 	text-align: left;
+	color: white;
 	font-size: 100px;
 	margin: 10px;
 	float: inline-end;
