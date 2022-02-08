@@ -108,11 +108,11 @@ a {
 }
 
 .header {
-	margin: 320px;
+	height: 370px;
 }
 
 .headertext {
-	font-size: 300px;
+	font-size: 350px;
 }
 
 .block {
