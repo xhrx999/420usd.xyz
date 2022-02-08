@@ -73,7 +73,7 @@ a {
 	font-size: 140px;
 	margin: 10px;
 	margin-left: 240px;
-	margin-top: 25px;
+	margin-top: 30px;
 	float: inline-end;
 	vertical-align: middle;
 	height: max-content;
@@ -118,6 +118,10 @@ a {
 .block {
 	align-self: center;
 	width: 40%;
+}
+
+.blocktext {
+	margin-top: 25px;
 }
 
 .footertext {
