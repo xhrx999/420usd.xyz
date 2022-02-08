@@ -64,6 +64,8 @@ a {
 	padding: 0%;
 	vertical-align: middle;
 	width: 200px;
+	height: 200px;
+	object-fit: contain;
 }
 
 .blocktext {
@@ -108,7 +110,7 @@ a {
 
 .block {
 	align-self: center;
-	width: 40%;
+	width: 50%;
 }
 
 .footertext {
