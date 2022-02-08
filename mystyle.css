@@ -107,6 +107,14 @@ a {
 	padding: -10px;
 }
 
+.header {
+	margin: 320px;
+}
+
+.headertext {
+	font-size: 300px;
+}
+
 .block {
 	align-self: center;
 	width: 40%;
