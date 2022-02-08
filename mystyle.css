@@ -45,7 +45,7 @@ a {
 
 .block {
 	border-radius: 25px;
-	background-color: rgb(65, 65, 65);
+	background-color: rgb(50, 50, 50);
 	width: 95%;
 	height: 220px;
 	margin: 10px;
@@ -54,7 +54,7 @@ a {
 }
 
 .block:hover {
-	background-color: rgb(50, 50, 50);
+	background-color: rgb(35, 35, 35);
 }
 
 .blockicon {
