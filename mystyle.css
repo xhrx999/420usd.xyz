@@ -47,7 +47,7 @@ a {
 	border-radius: 25px;
 	background-color: rgb(50, 50, 50);
 	width: 95%;
-	height: 220px;
+	height: 230px;
 	margin: 10px;
 	text-align: left;
 	vertical-align: middle;
@@ -59,7 +59,7 @@ a {
 
 .blockicon {
 	float: left;
-	margin: 10px;
+	margin: 15px;
 	padding: 0%;
 	vertical-align: middle;
 	width: 200px;
@@ -70,10 +70,10 @@ a {
 .blocktext {
 	text-align: left;
 	color: white;
-	font-size: 120px;
+	font-size: 150px;
 	margin: 10px;
 	margin-left: 240px;
-	margin-top: 40px;
+	margin-top: 25px;
 	float: inline-end;
 	vertical-align: middle;
 	height: max-content;
