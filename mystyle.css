@@ -82,6 +82,7 @@ a {
 	vertical-align: middle;
 	height: max-content;
 	position: relative;
+	top: 50%;
 }
 
 .footer {
