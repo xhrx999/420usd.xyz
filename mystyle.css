@@ -70,10 +70,10 @@ a {
 .blocktext {
 	text-align: left;
 	color: white;
-	font-size: 120px;
+	font-size: 140px;
 	margin: 10px;
 	margin-left: 240px;
-	margin-top: 40px;
+	margin-top: 25px;
 	float: inline-end;
 	vertical-align: middle;
 	height: max-content;
