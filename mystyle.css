@@ -27,6 +27,7 @@ a:hover, a:active {
 }
 
 .headertext {
+	vertical-align: middle;
 	color: #aaaaaa;
 	font-size: 200px;
 	margin-block-start: 0.05em;
