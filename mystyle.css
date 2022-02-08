@@ -5,7 +5,8 @@ html {
 	font-family: 'Bebas Neue';
 	color: white;
 	text-align: center;
-	background-image: url("background.jpg");
+	/*background-image: url("background.jpg");*/
+	background-color: red black;
 	background-attachment: fixed;
 	background-size: 500%;
 	background-repeat: no-repeat;
