@@ -83,6 +83,7 @@ a {
 	vertical-align: middle;
 	height: 200px;
 	position: relative;
+	line-height: 200px;
 }
 
 .footer {
