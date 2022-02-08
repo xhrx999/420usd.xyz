@@ -19,9 +19,9 @@ a:link, a:visited {
  	display: inline-block;
 }
 
-a:hover, a:active {
+/*a:hover, a:active {
  	color: #aaaaaa;
-}
+}*/
 
 .header {
 	width: 100%;
