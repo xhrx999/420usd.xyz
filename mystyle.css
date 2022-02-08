@@ -9,6 +9,8 @@ html {
 	background-attachment: fixed;
 	background-size: 500%;
 	background-repeat: no-repeat;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	-webkit-tap-highlight-color: transparent;
 }
 
 a:link, a:visited {
