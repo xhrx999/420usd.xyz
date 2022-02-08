@@ -5,7 +5,7 @@ html {
 	font-family: 'Bebas Neue';
 	color: white;
 	text-align: center;
-	/*background-image: url("http://vanzomrealtyauction.com/web/wp-content/uploads/2013/05/5195-grey-texture-1920x1080-abstract-wallpaper-copy.jpg");*/
+	background-image: url("background.jpg");
 	background-attachment: fixed;
 	background-size: 500%;
 	background-repeat: no-repeat;
@@ -21,20 +21,57 @@ a:hover, a:active {
  	color: #aaaaaa;
 }
 
-h1 {
+.header {
+	width: 100%;
+	height: 300px;
+}
+
+.headertext {
 	color: #aaaaaa;
-	font-size: 250px;
-	margin-block-start: 0.20em;
-	margin-block-end: 0.20em;
+	font-size: 200px;
+	margin-block-start: 0.05em;
+	margin-block-end: 0.05em;
 	text-shadow: 4px 4px #ff0000, -4px -4px #00ffff;
 	animation: color-change 15s infinite;
 }
 
 a {
-	font-size: 200px;
-	margin-block-start: 0.1em;
-	margin-block-end: 0.1em;
-	text-shadow: 2px 2px #ff0000, -2px -2px #00ffff;
+	font-size: 150px;
+	text-shadow: 2px 2px #222;
+	position: relative;
+}
+
+.block {
+	border-radius: 25px;
+	background-color: rgb(65, 65, 65);
+	width: 95%;
+	margin: 5px;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.block:hover {
+	background-color: rgb(50, 50, 50);
+}
+
+.blockicon {
+	float: left;
+	text-align: center;
+	margin: 10px;
+	vertical-align: middle;
+	padding: 1%;
+}
+
+.blocktext {
+	text-align: left;
+	font-size: 100px;
+	margin: 10px;
+	float: inline-end;
+	margin: 0px;
+	vertical-align: middle;
+	height: 100%;
+	position: relative;
+	padding: 1%;
 }
 
 .footer {
@@ -57,20 +94,20 @@ html {
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
-h1 {
-	font-size: 200px;
-	margin-block-start: 0.05em;
-	margin-block-end: 0.05em;
-}
 
 a {
 	font-size: 70px;
-	margin-block-start: 0.1em;
-	margin-block-end: 0.1em;
+	margin: 0px;
+	padding: -10px;
+}
+
+.block {
+	align-self: center;
+	width: 40%;
 }
 
 .footertext {
-	margin: 10px;
+	margin: 2px;
 	}
 }
 
