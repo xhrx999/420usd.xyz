@@ -48,7 +48,7 @@ a {
 	background-color: rgb(65, 65, 65);
 	width: 95%;
 	height: 220px;
-	margin: 5px;
+	margin: 10px;
 	text-align: left;
 	vertical-align: middle;
 }
@@ -72,7 +72,7 @@ a {
 	color: white;
 	font-size: 120px;
 	margin: 10px;
-	margin-left: 225px;
+	margin-left: 240px;
 	margin-top: 40px;
 	float: inline-end;
 	vertical-align: middle;
