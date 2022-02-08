@@ -6,7 +6,7 @@ html {
 	color: white;
 	text-align: center;
 	/*background-image: url("background.jpg");*/
-	background-color: red black;
+	background-image: linear-gradient(red,  black);
 	background-attachment: fixed;
 	background-size: 500%;
 	background-repeat: no-repeat;
