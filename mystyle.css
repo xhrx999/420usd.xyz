@@ -62,6 +62,7 @@ a {
 	padding: 0%;
 	vertical-align: middle;
 	height: 150px;
+	max-width: 100px;
 }
 
 .blocktext {
