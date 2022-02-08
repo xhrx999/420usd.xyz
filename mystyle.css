@@ -71,6 +71,9 @@ a {
 	vertical-align: middle;
 	max-height: 200px;
 	width: 200px;
+	position: absolute;
+	margin-top: auto;
+	margin-bottom: auto;
 }
 
 .blocktext {
@@ -83,7 +86,6 @@ a {
 	vertical-align: middle;
 	height: 200px;
 	position: relative;
-	line-height: 200px;
 }
 
 .footer {
