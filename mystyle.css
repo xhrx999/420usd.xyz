@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap');
 
 html {
 	background-color: black;
-	font-family: 'Anton';
+	font-family: 'Teko';
 	color: white;
 	text-align: center;
 	background-image: url("background.jpg");
