@@ -4,6 +4,7 @@
 html {
 	background-color: black;
 	font-family: 'Teko';
+	line-height: 80%;
 	color: white;
 	text-align: center;
 	background-image: url("background.jpg");
