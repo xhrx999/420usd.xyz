@@ -31,7 +31,7 @@ a:hover, a:active {
 .headertext {
 	vertical-align: middle;
 	color: #aaaaaa;
-	font-size: clamp(5em, 8em + 5vw, 5em + 13vw);
+	font-size: clamp(15vw, 30vw, 30vw);
 	margin-bottom: 0;
 	margin-top: 5vw;
 	text-shadow: 4px 4px #ff0000, -4px -4px #00ffff;
@@ -107,6 +107,7 @@ a {
 
 .headertext {
 	margin-top: 2vw;
+	font-size: clamp(5em, 8em + 5vw, 5em + 13vw);
 }
 
 .block {
