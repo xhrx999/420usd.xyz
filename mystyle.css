@@ -32,7 +32,7 @@ a:hover, a:active {
 	color: #aaaaaa;
 	font-size: clamp(5em, 8em + 5vw, 5em + 13vw);
 	margin-bottom: 0;
-	margin-top: 1.5vw;
+	margin-top: 1vw;
 	text-shadow: 4px 4px #ff0000, -4px -4px #00ffff;
 	animation: color-change 15s infinite;
 }
