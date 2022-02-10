@@ -54,7 +54,7 @@ a {
 
 .block:hover {
 	background-color: rgb(35, 35, 35);
-	display: inline-block;
+	border: 1vm solid #00ffff;
 }
 
 .blocktable {
@@ -74,8 +74,6 @@ a {
 	color: white;
 	font-size: 5vw;
     margin: 0;
-	margin-left: 7vw;
-	height: max-content;
 }
 
 .footer {
@@ -111,7 +109,7 @@ a {
 
 .headertext {
 	font-size: 350px;
-}*/
+}
 
 .block {
 	align-self: center;
@@ -121,6 +119,7 @@ a {
 .blocktext {
 	margin-top: 25px;
 }
+*/
 
 .footertext {
 	margin: 2px;
