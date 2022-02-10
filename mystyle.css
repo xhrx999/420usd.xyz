@@ -63,7 +63,7 @@ a {
 
 .blockicon {
 	float: left;
-	margin: 0;
+	margin: 2vw;
 	width: 5vw;
 	height: 5vw;
 	object-fit: contain;
@@ -103,23 +103,9 @@ a {
 	padding: -10px;
 }
 
-/*.header {
-	height: 430px;
-}
-
-.headertext {
-	font-size: 350px;
-}
-
 .block {
-	align-self: center;
 	width: 40%;
 }
-
-.blocktext {
-	margin-top: 25px;
-}
-*/
 
 .footertext {
 	margin: 2px;
