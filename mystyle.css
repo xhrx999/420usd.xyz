@@ -46,7 +46,7 @@ a {
 	border-radius: 25px;
 	background-color: rgb(50, 50, 50);
 	width: 95%;
-	min-height: 10vw;
+	height: auto;
 	margin: 1vw;
 	text-align: left;
 	box-sizing: border-box;
@@ -64,8 +64,8 @@ a {
 .blockicon {
 	float: left;
 	margin: 2vw;
-	width: 5vw;
-	height: 5vw;
+	min-width: 10vw;
+	min-height: 10vw;
 	object-fit: contain;
 }
 
@@ -105,6 +105,11 @@ a {
 
 .block {
 	width: 40%;
+}
+
+.blockicon {
+	min-width: 5vw;
+	min-height: 5vw;
 }
 
 .footertext {
