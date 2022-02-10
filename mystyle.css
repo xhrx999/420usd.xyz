@@ -7,7 +7,7 @@ html {
 	text-align: center;
 	background-image: url("background.jpg");
 	background-attachment: fixed;
-	background-size: 500%;
+	background-size: 400%;
 	background-repeat: no-repeat;
 	-webkit-tap-highlight-color: rgba(0,0,0,0);
 	-webkit-tap-highlight-color: transparent;
