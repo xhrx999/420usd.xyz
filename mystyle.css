@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 html {
 	background-color: black;
-	font-family: 'Bebas Neue';
+	font-family: 'Anton';
 	color: white;
 	text-align: center;
 	background-image: url("background.jpg");
