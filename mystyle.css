@@ -54,7 +54,6 @@ a {
 
 .block:hover {
 	background-color: rgb(35, 35, 35);
-	border: 2px solid #00ffff;
 }
 
 .blocktable {
@@ -64,8 +63,8 @@ a {
 .blockicon {
 	float: left;
 	margin: 2vw;
-	min-width: 10vw;
-	min-height: 10vw;
+	width: 10vw;
+	height: 10vw;
 	object-fit: contain;
 }
 
