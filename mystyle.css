@@ -46,7 +46,7 @@ a {
 	border-radius: 25px;
 	background-color: rgb(50, 50, 50);
 	width: 95%;
-	height: auto;
+	min-height: 10vw;
 	margin: 1vw;
 	text-align: left;
 	box-sizing: border-box;
@@ -54,7 +54,7 @@ a {
 
 .block:hover {
 	background-color: rgb(35, 35, 35);
-	border: 1vm solid #00ffff;
+	border: 2px solid #00ffff;
 }
 
 .blocktable {
