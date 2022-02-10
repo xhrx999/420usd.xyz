@@ -30,7 +30,7 @@ a:hover, a:active {
 .headertext {
 	vertical-align: middle;
 	color: #aaaaaa;
-	font-size: clamp(5em, 10em + 5vw, 5em + 15vw);
+	font-size: clamp(5em, 8em + 5vw, 5em + 13vw);
 	margin: auto;
 	text-shadow: 4px 4px #ff0000, -4px -4px #00ffff;
 	animation: color-change 15s infinite;
