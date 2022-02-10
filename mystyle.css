@@ -63,15 +63,15 @@ a {
 .blockicon {
 	float: left;
 	margin: 2vw;
-	width: 10vw;
-	height: 10vw;
+	width: 12vw;
+	height: 12vw;
 	object-fit: contain;
 }
 
 .blocktext {
 	text-align: left;
 	color: white;
-	font-size: 5vw;
+	font-size: 12vw;
     margin: 0;
 }
 
@@ -107,8 +107,12 @@ a {
 }
 
 .blockicon {
-	min-width: 5vw;
-	min-height: 5vw;
+	width: 5vw;
+	height: 5vw;
+}
+
+.blocktext {
+	font-size: 5vw;
 }
 
 .footertext {
