@@ -57,10 +57,13 @@ a {
 	display: inline-block;
 }
 
+.blocktable {
+	vertical-align: middle;
+}
+
 .blockicon {
 	float: left;
-	margin: 2vw;
-	vertical-align: middle;
+	margin: 0;
 	width: 5vw;
 	height: 5vw;
 	object-fit: contain;
@@ -70,10 +73,9 @@ a {
 	text-align: left;
 	color: white;
 	font-size: 5vw;
-    margin: 1vw;
+    margin: 0;
 	margin-left: 7vw;
 	height: max-content;
-	display: flex
 }
 
 .footer {
