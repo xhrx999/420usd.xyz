@@ -97,6 +97,10 @@ a {
 }
 
 @media (min-width:1200px)  {
+html {
+	background-size: 800%;
+}
+
 a {
 	font-size: 70px;
 	margin: 0px;
