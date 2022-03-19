@@ -118,8 +118,10 @@ a {
 }
 
 .footertext {
-	margin: 2px;
-	}
+	margin: 0.1vw;
+	font-size: 1vw;
+}
+
 }
 
 @keyframes gradient {
