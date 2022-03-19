@@ -34,7 +34,7 @@ a:hover, a:active {
 	font-size: clamp(15vw, 30vw, 30vw);
 	margin-bottom: 0;
 	margin-top: 5vw;
-	text-shadow: 4px 4px #ff0000, -4px -4px #00ffff;
+	text-shadow: 0 0 10px #fff, 0 0 15px #ff4da6;
 	animation: color-change 15s infinite;
 	line-height: 85%
 }
@@ -47,16 +47,16 @@ a {
 
 .block {
 	border-radius: 25px;
-	background-color: rgb(50, 50, 50);
+	border: solid 2px rgba(255, 255, 255, 0.8);
 	width: 95%;
 	height: auto;
 	margin: 1vw;
-	text-align: left;
+	text-align: center;
 	box-sizing: border-box;
 }
 
 .block:hover {
-	background-color: rgb(35, 35, 35);
+	background-color: rgba(255, 255, 255, 0.25);
 }
 
 .blocktable {
@@ -64,7 +64,6 @@ a {
 }
 
 .blockicon {
-	float: left;
 	margin: 2vw;
 	width: 12vw;
 	height: 12vw;
@@ -72,7 +71,6 @@ a {
 }
 
 .blocktext {
-	text-align: left;
 	color: white;
 	font-size: 12vw;
     margin: 0;
