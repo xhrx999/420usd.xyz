@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 html {
 	background-color: black;
-	font-family: 'Teko';
+	font-family: 'Oswald';
 	color: white;
 	text-align: center;
 	background-image: url("background.jpg");
@@ -85,12 +85,12 @@ a {
 	width: 100%;
 	background-color: black;
 	color: white;
-	font-size: 25px;
 	text-align: center;
 }
 
 .footertext {
-	margin: 30px;
+	margin: 0.5vw;
+	font-size: 3vw;
 }
 
 @media (min-width:1200px)  {
