@@ -64,6 +64,7 @@ a {
 }
 
 .blockicon {
+	float: left;
 	margin: 2vw;
 	width: 12vw;
 	height: 12vw;
@@ -109,7 +110,6 @@ a {
 }
 
 .blockicon {
-	float: left;
 	width: 5vw;
 	height: 5vw;
 }
