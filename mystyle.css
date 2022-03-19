@@ -6,15 +6,12 @@ html {
 	font-family: 'Bebas Neue';
 	color: white;
 	text-align: center;
-	background-repeat: no-repeat;
-	-webkit-tap-highlight-color: rgba(0,0,0,0);
-	-webkit-tap-highlight-color: transparent;
-}
-
-body {
 	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
+	background-repeat: no-repeat;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	-webkit-tap-highlight-color: transparent;
 }
 
 a:link, a:visited {
@@ -97,10 +94,6 @@ a {
 }
 
 @media (min-width:1200px)  {
-html {
-	background-size: 800%;
-}
-
 a {
 	font-size: 70px;
 	margin: 0px;
