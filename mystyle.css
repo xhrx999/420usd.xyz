@@ -47,7 +47,7 @@ a {
 
 .block {
 	border-radius: 25px;
-	border: solid 2px rgba(255, 255, 255, 0.8);
+	border: solid 5px rgba(255, 255, 255, 0.8);
 	width: 95%;
 	height: auto;
 	margin: 1vw;
