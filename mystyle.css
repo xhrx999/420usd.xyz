@@ -50,7 +50,7 @@ a {
 }
 
 .block {
-	border-radius: 1vw;
+	border-radius: 5vw;
 	border: solid 1vw rgba(255, 255, 255, 0.8);
 	width: 95%;
 	height: auto;
@@ -109,6 +109,7 @@ a {
 }
 
 .block {
+	border-radius: 2vw;
 	width: 40%;
 	margin: 0.5vw;
 	border-width: 7px;
