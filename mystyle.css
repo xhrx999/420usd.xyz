@@ -45,6 +45,10 @@ a {
 	position: relative;
 }
 
+.container {
+	height: 100%;
+}
+
 .block {
 	border-radius: 25px;
 	border: solid 1vw rgba(255, 255, 255, 0.8);
