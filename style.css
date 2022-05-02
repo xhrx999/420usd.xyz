@@ -73,6 +73,7 @@ a:link, a:visited, a:hover, a:active {
 .blocktext {
     font-family: 'Oswald';
     font-size: clamp(70px, 20vw, 80px);
+    text-transform: uppercase;
     margin: 5px;
 }
 
