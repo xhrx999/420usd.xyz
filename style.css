@@ -17,11 +17,12 @@ body {
 .header {
     text-align: center;
     padding-top: 3%;
+    margin: 5vw;
 }
 
 .headertext {
     font-family: 'Bebas Neue';
-    font-size: clamp(150px, 20vw, 200px);
+    font-size: 25vw;
     line-height: 90%;
     text-shadow: 0 0 10px #fff, 0 0 15px #ff4da6, 0 0 15px #0ff;
 }
@@ -44,7 +45,7 @@ body {
 
 .block {
     display: flex;
-    border: solid 5px #fff;
+    border: solid 1vw #fff;
     border-radius: clamp(5px, 5vw, 20px);
     width: 95vw;
     align-items: center;
@@ -64,14 +65,14 @@ a:link, a:visited, a:hover, a:active {
 .blockicon {
     float: left;
     margin: clamp(5px, 2vw, 15px);
-	width: clamp(70px, 30vw, 80px);
-	height: clamp(70px, 30vw, 80px);
+	width: 13vw;
+	height: 13vw;
 	object-fit: contain;
 }
 
 .blocktext {
     font-family: 'Bebas Neue';
-    font-size: clamp(70px, 30vw, 80px);
+    font-size: 13vw;
     margin: 5px;
 }
 
