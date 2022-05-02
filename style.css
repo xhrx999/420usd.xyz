@@ -44,7 +44,7 @@ body {
 
 .block {
     display: flex;
-    border: solid 2px #fff;
+    border: solid 5px #fff;
     border-radius: 5vw;
     width: 95%;
 }
@@ -57,7 +57,7 @@ body {
 
 .block:hover, .block:active {
     color: #fff;
-    background-color: rgba(255,255,255,5%);
+    background-color: rgba(255,255,255,25%);
 }
 
 .blockicon {
