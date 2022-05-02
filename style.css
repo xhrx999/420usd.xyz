@@ -46,10 +46,11 @@ body {
     display: flex;
     border: solid 5px #fff;
     border-radius: 5vw;
-    width: 95%;
+    width: 95vw;
+    align-items: center;
 }
 
-.block:link, .block:visited {
+a:link, a:visited, a:hover, a:active {
     color: #fff;
     text-decoration: none;
     display: inline-block;
@@ -62,14 +63,14 @@ body {
 
 .blockicon {
     float: left;
-    margin: 2vw;
-	width: 1em;
-	height: 1em;
+    margin: clamp(5px, 2vw, 15px);
+	width: clamp(70px, 20vw, 80px);
+	height: clamp(70px, 20vw, 80px);
 	object-fit: contain;
 }
 
 .blocktext {
-    font-size: clamp(70px, 15vw, 80px);
+    font-size: clamp(70px, 20vw, 80px);
     margin: 5px;
 }
 
