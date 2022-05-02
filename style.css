@@ -64,14 +64,14 @@ a:link, a:visited, a:hover, a:active {
 .blockicon {
     float: left;
     margin: clamp(5px, 2vw, 15px);
-	width: clamp(70px, 20vw, 80px);
-	height: clamp(70px, 20vw, 80px);
+	width: clamp(70px, 30vw, 80px);
+	height: clamp(70px, 30vw, 80px);
 	object-fit: contain;
 }
 
 .blocktext {
     font-family: 'Bebas Neue';
-    font-size: clamp(70px, 20vw, 80px);
+    font-size: clamp(70px, 30vw, 80px);
     margin: 5px;
 }
 
