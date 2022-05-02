@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 html {
     height: 100%;
@@ -71,9 +70,8 @@ a:link, a:visited, a:hover, a:active {
 }
 
 .blocktext {
-    font-family: 'Oswald';
+    font-family: 'Bebas Neue';
     font-size: clamp(70px, 20vw, 80px);
-    text-transform: uppercase;
     margin: 5px;
 }
 
