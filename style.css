@@ -64,7 +64,7 @@ a:link, a:visited, a:hover, a:active {
 
 .blockicon {
     float: left;
-    margin: clamp(5px, 2vw, 15px);
+    margin: 2vw;
 	width: 13vw;
 	height: 13vw;
 	object-fit: contain;
@@ -74,6 +74,54 @@ a:link, a:visited, a:hover, a:active {
     font-family: 'Bebas Neue';
     font-size: 13vw;
     margin: 5px;
+}
+
+@media (min-width:801px) {
+
+.header {
+    text-align: center;
+    padding-top: 1%;
+    margin: 1vw;
+}
+
+.headertext {
+    font-size: 13vw;
+    line-height: 90%;
+    text-shadow: 0 0 30px #fff, 0 0 40px #ff4da6, 0 0 40px #0ff;
+}
+
+.container {
+    display: inline;
+    justify-content: center;
+}
+
+.containerblocks {
+    display: block;
+    text-align: center;
+}
+
+.block {
+    display: flex;
+    border: solid 0.5vw #fff;
+    border-radius: clamp(5px, 5vw, 20px);
+    width: 40vw;
+    align-items: center;
+    margin: 1vw;
+}
+
+.blockicon {
+    margin: 2vw;
+	width: 4vw;
+	height: 4vw;
+	object-fit: contain;
+}
+
+.blocktext {
+    font-family: 'Bebas Neue';
+    font-size: 4vw;
+    margin: 5px;
+}
+
 }
 
 @keyframes gradient {
