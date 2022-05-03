@@ -76,7 +76,7 @@ a:link, a:visited, a:hover, a:active {
     margin: 5px;
 }
 
-@media (min-width:801px) {
+@media (min-width:961px) {
 
 .header {
     text-align: center;
