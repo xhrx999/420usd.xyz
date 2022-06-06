@@ -44,10 +44,14 @@ body {
     padding-bottom: 5%;
 }
 
+.link {
+    border-radius: clamp(5px, 5vw, 20px);
+}
+
 .block {
     display: flex;
     border: solid 1vw #fff;
-    border-radius: clamp(5px, 5vw, 20px);
+    /* border-radius: clamp(5px, 5vw, 20px); */
     width: 95vw;
     align-items: center;
     margin: 0;
