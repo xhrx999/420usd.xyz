@@ -12,6 +12,7 @@ html {
 body {
     height: 100%;
     color: white;
+    animation: normal 2s ease;
 }
 
 .header {
@@ -49,6 +50,7 @@ body {
     border-radius: clamp(5px, 5vw, 20px);
     width: 95vw;
     align-items: center;
+    margin: 0;
 }
 
 a:link, a:visited, a:hover, a:active {
@@ -100,13 +102,17 @@ a:link, a:visited, a:hover, a:active {
     text-align: center;
 }
 
+.link {
+    margin: 1vw;
+}
+
 .block {
     display: flex;
     border: solid 0.5vw #fff;
     border-radius: clamp(5px, 5vw, 20px);
     width: 40vw;
     align-items: center;
-    margin: 1vw;
+    margin: 0;
 }
 
 .blockicon {
